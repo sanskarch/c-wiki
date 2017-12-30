@@ -12,7 +12,7 @@
   
   ## [C - CONSTANT](https://codes4you.github.io/C-CONSTANT/)
   
-  ## C - VARIABLE
+  ## [C - VARIABLE](https://codes4you.github.io/C-VARIABLE/)
   
   ## C - OPERATORS AND EXPRESSIONS
   
