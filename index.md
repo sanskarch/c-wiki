@@ -14,7 +14,7 @@
   
   ## [C - VARIABLE](https://codes4you.github.io/C-VARIABLE/)
   
-  ## C - OPERATORS AND EXPRESSIONS
+  ## [C - OPERATORS AND EXPRESSIONS](https://codes4you.github.io/C-OPERATORS-AND-EXPRESSIONS/)
   
   ## C - DECISION CONTROL STATEMENT
   
